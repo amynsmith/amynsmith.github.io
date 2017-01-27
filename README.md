@@ -5,6 +5,6 @@ it seems like planting trees, amazing
 
 ## list of favorite
 - Naruto
-&amp;&amp;- TV
+&nbsp;&nbsp;- TV
   - MOVIE
   - MANGA
