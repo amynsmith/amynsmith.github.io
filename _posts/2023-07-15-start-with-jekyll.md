@@ -1,7 +1,8 @@
 ---
 title:  "Start with Jekyll"
 date:   2023-07-15 08:07:09 +0800
-categories: jekyll
+category: troubleshoot
+tags: SSG jekyll
 ---
 
 below are some problems and solutions:
